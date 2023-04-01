@@ -2,13 +2,13 @@
  {
     "author" : "Ticc", 
     "name" : "OldRemakeUpdateTicc", 
-    "keyWords" : "keyword1,keyword2",
+    "keyWords" : "Oldremake,ticc",
     "version" : "1.2.0",
     "dofusVersion" : "2.67", 
     "description" : "Update de OldRemakeRetro", 
-    "url" : "https://github.com/Ticc13/OldRemakeUpdate/blob/main/OldRemakeUpdateTicc.zip",
-    "previewUrl" : "https://github.com/Ticc13/OldRemakeUpdate/blob/main/oldUIPreview.jpg", 
+    "url" : "https://github.com/Ticc13/OldRemakeUpdate/raw/main/OldRemakeUpdateTicc.zip",
+    "previewUrl" : "https://github.com/Ticc13/OldRemakeUpdate/blob/main/oldUIPreview.jpg?raw=true", 
     "creationDate" : "29/01/2023", 
     "modificationDate" : "29/03/2023"
-    } 
+    }
   ]
